@@ -1,0 +1,39 @@
+﻿secao,indicador,valor
+Visão geral,Registros,200
+Visão geral,Período,01/01/2025 a 19/07/2025
+Visão geral,Faturamento total (R$),123009.0
+Visão geral,Quantidade total vendida,1110
+Visão geral,Ticket médio por unidade (R$),110.82
+Visão geral,Valores nulos restantes,0
+Por loja,Loja Centro - faturamento (R$),47672.0
+Por loja,Loja Centro - participação (%),38.8
+Por loja,Loja Centro - ticket médio por unidade (R$),125.45
+Por loja,Loja Sul - faturamento (R$),39819.6
+Por loja,Loja Sul - participação (%),32.4
+Por loja,Loja Sul - ticket médio por unidade (R$),98.56
+Por loja,Loja Norte - faturamento (R$),35517.4
+Por loja,Loja Norte - participação (%),28.9
+Por loja,Loja Norte - ticket médio por unidade (R$),108.95
+Por produto,Tênis - faturamento (R$),61725.3
+Por produto,Tênis - quantidade vendida,247
+Por produto,Calça - faturamento (R$),35852.4
+Por produto,Calça - quantidade vendida,276
+Por produto,Boné - faturamento (R$),15401.4
+Por produto,Boné - quantidade vendida,386
+Por produto,Camiseta - faturamento (R$),10029.9
+Por produto,Camiseta - quantidade vendida,201
+Por mês,Janeiro - faturamento (R$),15634.7
+Por mês,Fevereiro - faturamento (R$),18723.6
+Por mês,Março - faturamento (R$),23521.8
+Por mês,Abril - faturamento (R$),19592.2
+Por mês,Maio - faturamento (R$),14712.0
+Por mês,Junho - faturamento (R$),16415.4
+Por mês,Julho - faturamento (R$),14409.3
+Por mês,Mês de maior faturamento,Março
+Top 5 vendas,1º lugar,08/02/2025 | Loja Centro | Tênis | 10 un | R$ 2499.00
+Top 5 vendas,2º lugar,04/03/2025 | Loja Norte | Tênis | 10 un | R$ 2499.00
+Top 5 vendas,3º lugar,09/03/2025 | Loja Norte | Tênis | 10 un | R$ 2499.00
+Top 5 vendas,4º lugar,26/03/2025 | Loja Centro | Tênis | 10 un | R$ 2499.00
+Top 5 vendas,5º lugar,31/03/2025 | Loja Centro | Tênis | 10 un | R$ 2499.00
+Correlação,quantidade x faturamento,0.56
+Correlação,preco_unitario x faturamento,0.73
